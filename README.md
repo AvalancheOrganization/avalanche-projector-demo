@@ -18,7 +18,7 @@ You will indicate the button GPIO pin and the path of the 2 files to display (on
 Check if there are any error displayed.
 
 If everything is ok, run:
-python3 main.py
+`python3 main.py`
 
 
 
